@@ -10,3 +10,4 @@
 ![Снимок экрана 2025-01-16 124111](https://github.com/user-attachments/assets/55401115-bd4e-40af-842c-24c159e826ce)
 
 https://github.com/Skrypnikoviv/09-ci-01-intro/blob/4b4e846ffa9145db8bd979ffd28a0cf68c54786f/workflow.xml
+https://github.com/Skrypnikoviv/09-ci-01-intro/blob/b899b88e5fd27c59cce248c81616ac68856bff66/workflow.xml
