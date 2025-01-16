@@ -8,3 +8,5 @@
 ![Снимок экрана 2025-01-16 123332](https://github.com/user-attachments/assets/f4c224a5-cc42-4539-ae2a-e31248c42d8c)
 
 ![Снимок экрана 2025-01-16 124111](https://github.com/user-attachments/assets/55401115-bd4e-40af-842c-24c159e826ce)
+
+https://github.com/Skrypnikoviv/09-ci-01-intro/blob/4b4e846ffa9145db8bd979ffd28a0cf68c54786f/workflow.xml
